@@ -10,7 +10,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://kaylee-best.github.io/Exercise-App"
+    "homepage": "https://Exercise-App"
   },
   "scripts": {
     "start": "react-scripts start",
